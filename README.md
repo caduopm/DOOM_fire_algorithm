@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://filipedeschamps.github.io/doom-fire-algorithm/playground/1st-implementation-with-tables/">
-    <img src="ss.png" width="490">
-  </a>
+  <!-- <a href="https://filipedeschamps.github.io/doom-fire-algorithm/playground/1st-implementation-with-tables/"> -->
+    <img src="ss.PNG" width="490">
+  <!-- </a> -->
 </p>
 
 # Doom Fire Algorithm
@@ -12,5 +12,5 @@ and [this video](https://www.youtube.com/watch?v=fxm8cadCqbs).
 
 ## Author
 
-| [<img src="https://avatars0.githubusercontent.com/u/4248081?v=3&s=115"><br><sub>@filipedeschamps</sub>](https://github.com/caduopm) |
+<!-- | [<img src="https://avatars0.githubusercontent.com/u/4248081?v=3&s=115"><br><sub>@filipedeschamps</sub>](https://github.com/caduopm) | -->
 | :---: |
